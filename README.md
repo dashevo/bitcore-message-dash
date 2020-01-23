@@ -1,5 +1,7 @@
 # dashcore-message
 
+**Note: This package has been deprecated. @dashevo/dashcore-mnemonic is superceded by the functionality in @dashevo/dashcore-lib. Please use that package moving forward.**
+
 [![Build Status](https://img.shields.io/travis/dashevo/dashcore-message.svg?branch=master&style=flat-square)](https://travis-ci.org/dashevo/dashcore-message)
 [![NPM Package](https://img.shields.io/npm/v/@dashevo/dashcore-message.svg?style=flat-square)](https://www.npmjs.org/package/@dashevo/dashcore-message)
 
